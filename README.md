@@ -1,4 +1,4 @@
-# AndroidStudioAndengine
+# Android Studio + Andengine
 
 Integración de Android Studio con Andengine y un ejemplo.
 
